@@ -1,0 +1,12 @@
+Modelos
+
+Los modelos son lo que estaremos creando
+
+
+Controladores
+
+
+
+Routers
+
+
